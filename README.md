@@ -6,8 +6,8 @@ I am a mathematician and software developer based in France.
 - 🔭 I’m currently working on a French grammar study app
 - 🌱 I’m currently learning more about JavaScript and JSON
 - 📫 How to reach me: isaacsundbergdev@gmail.com
-- 😄 Pronouns: they/them 🏳️‍🌈🏳️‍⚧️
-- ⚡ Fun fact: I love reading, and my go to author is Ursula K. Le Guin 📚
+- 🏳️‍⚧️ Pronouns: they/them
+- 📚 Fun fact: I love reading, and my go to author is Ursula K. Le Guin
 
 <!--
 **imsundberg/imsundberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
