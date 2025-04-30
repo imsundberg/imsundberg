@@ -1,6 +1,6 @@
 ## Hello there, I'm [Isaac Sundberg](https://imsundberg.github.io/) 👋
 
-# I am a mathematician and software developer based in France. 
+I am a mathematician and software developer based in France. 
 
 - ✨ I wrote the [KhNoDe](https://imsundberg.github.io/KhNoDe/) Python module for analysing Khovanov homology classes
 - 🔭 I’m currently working on a French grammar study app
