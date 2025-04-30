@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there, I'm [Isaac Sundberg](https://imsundberg.github.io/) 👋
+
+# I am a mathematician and software developer based in France. 
+
+- ✨ I wrote the [KhNoDe](https://imsundberg.github.io/KhNoDe/) Python module for analysing Khovanov homology classes
+- 🔭 I’m currently working on a French grammar study app
+- 🌱 I’m currently learning more about JavaScript and JSON
+- 📫 How to reach me: isaacsundbergdev@gmail.com
+- 😄 Pronouns: they/them 🏳️‍🌈🏳️‍⚧️
+- ⚡ Fun fact: I love reading, and my go to author is Ursula K. Le Guin 📚
 
 <!--
 **imsundberg/imsundberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
