@@ -1,8 +1,8 @@
 ## Hello there, I'm [Isaac Sundberg](https://imsundberg.github.io/) 👋
 
-I am a recovering mathematician and current software developer based in France. 
+I am a recovering mathematician and current software engineer based in France. 
 
-- 💼 I am a software engineer at [Mathematical Sciences Publishers](https://msp.org/) (MSP)
+- 💼 I am a junior software engineer at [Mathematical Sciences Publishers](https://msp.org/) (MSP)
 - ✨ I wrote the [KhNoDe](https://imsundberg.github.io/KhNoDe/) Python module for analysing Khovanov homology classes
 - 🔭 I’m currently working on a French grammar study app [VerbFR](https://imsundberg.github.io/VerbFR/)
 - 🌱 I’m currently learning more about JavaScript and JSON
