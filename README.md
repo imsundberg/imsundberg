@@ -5,7 +5,7 @@ I am a recovering mathematician and current software engineer based in France.
 - 💼 I am a software engineer at [Mathematical Sciences Publishers](https://msp.org/)
 - ✨ I wrote the [KhNoDe](https://imsundberg.github.io/KhNoDe/) Python module for analysing Khovanov homology classes
 - 🔭 I’m currently working on a French grammar study app [VerbFR](https://imsundberg.github.io/VerbFR/)
-- 🌱 I’m currently learning more about PHP
+- 🌱 I’m currently learning more about front-end development
 - 📫 How to reach me: isaacsundbergdev@gmail.com
 - 🏳️‍⚧️ Pronouns: they/them
 - 📚 Fun fact: I love reading, and my go to author is Ursula K. Le Guin
